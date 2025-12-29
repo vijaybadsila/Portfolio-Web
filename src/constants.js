@@ -153,7 +153,7 @@ export const SkillsInfo = [
       date: "July 2022 - March 2025",
       grade: "7.9 CGPA",
       desc: "I have completed my Bachelor's degree (BCA) in Computer Applications from Grapgic Era Hill University, Dehradun. During my time at GLA, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Graphic Era Hill University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "Master of Computer Applications - MCA",
+      degree: "Bachelor of Computer Applications - BCA",
     },
     {
       id: 2,
